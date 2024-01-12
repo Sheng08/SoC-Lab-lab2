@@ -187,11 +187,8 @@
 後續更多資訊會補充於以下HackMD
 * https://hackmd.io/@Sheng08/HkzeBuDyp
 
-:::info
 :pushpin: **TODO**
 - [ ]
-
-:::
 
 <!--
 frame? 如何聽過熟
